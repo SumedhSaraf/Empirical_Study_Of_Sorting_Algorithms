@@ -8,3 +8,8 @@
 ### X axis reperesnts number of inputs
 ### Y axis represents time taken to sort the corresponding inputs in milliseconds.
 
+<img src="Graphs/Selection.png">
+<img src="Graphs/Insertion.png">
+<img src="Graphs/Merge.png">
+<img src="Graphs/Quick.png">
+<img src="Graphs/Heap.png">
