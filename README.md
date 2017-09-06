@@ -7,9 +7,13 @@
 -  For more details go through the report
 ### X axis reperesnts number of inputs
 ### Y axis represents time taken to sort the corresponding inputs in milliseconds.
-
+### Selection Sort
 <img src="Graphs/Selection.png">
+### Insertion Sort
 <img src="Graphs/Insertion.png">
+### Merge Sort
 <img src="Graphs/Merge.png">
+### Quick Sort
 <img src="Graphs/Quick.png">
+### Heap Sort
 <img src="Graphs/Heap.png">
